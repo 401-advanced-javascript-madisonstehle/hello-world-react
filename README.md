@@ -6,15 +6,13 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/madisonstehle/hello-world-react/pull/1)
 - [app code in codesandbox](https://codesandbox.io/s/hello-world-react-2uy79?file=/src/App.js)
 - [front-end application](https://2uy79.csb.app/)
 
 ### Setup
 
-Not Applicable
-
-#### How to initialize/run your application
+#### How to initialize/run the application
 
 - If using on a local machine, `npm start` will start the app on localhost.
 - Otherwise, the link above to the front-end application will take you to the site.
@@ -25,4 +23,4 @@ Not Applicable for this lab.
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![Lab 21 UML Diagram](./401n16_lab21.jpg)
